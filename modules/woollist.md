@@ -1,4 +1,4 @@
-# WooL List
+# Wool List
 **Wool List** とは Word Only and One Line List の略であり、以下をすべて満たすタスクリストを指す。
 
 - 1行1タスクで書く
